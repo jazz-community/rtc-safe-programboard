@@ -1,7 +1,7 @@
 # rtc-safe-programboard
 do distributed SAFe PI Planning or Scrum-of-Scrums Big Room Planning with a virtual board in RTC
 
-
+![Timebox V3 Animated Teaser](docs/images/SAFeProgramBoardRTC.jpg)
 
 ## Information and latest News
 - [Blog on wordpress.com](https://timeboxplanning.wordpress.com/)
