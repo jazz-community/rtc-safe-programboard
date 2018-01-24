@@ -22,8 +22,8 @@ Today we offer you a binary distribution, which can be downloaded from this proj
 ## Installation
 Deploy just like any other update site:
 
-1. Extract the `com.siemens.bt.jazz.programboard-integration.updatesite.ini` **file** from the zip file to the `server/conf/ccm/provision_profiles` directory
-2. Extract the `com.siemens.bt.jazz.programboard-integration.updatesite` **folder** to the `server/conf/ccm/sites` directory
+1. Extract the `com.siemens.bt.jazz.programboard.v1_updatesite.ini` **file** from the zip file to the `server/conf/ccm/provision_profiles` directory
+2. Extract the `com.siemens.bt.jazz.programboard.v1_updatesite` **folder** to the `server/conf/ccm/sites` directory
 3. Restart the server
 
 ## Update existing installation
