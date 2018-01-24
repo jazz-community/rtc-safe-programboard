@@ -36,7 +36,7 @@ Deploy just like any other update site:
 4. Restart the server
 
 ## Contributing
-Please use the [Issue Tracker](https://github.com/jazz-community/rtc-timeboxplanning/issues) of this repository to report issues or suggest enhancements.
+Please use the [Issue Tracker](https://github.com/jazz-community/rtc-safe-programboard/issues) of this repository to report issues or suggest enhancements.
 Please refer to our [Contributing Guide](CONTRIBUTING.md#contributing) if you would like to help us improving this software.
 
 ## Licensing
